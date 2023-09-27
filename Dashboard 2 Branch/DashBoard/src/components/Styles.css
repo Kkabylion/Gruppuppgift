@@ -1,0 +1,15 @@
+@import url("https://code.highcharts.com/css/highcharts.css");
+
+
+/* General */
+.highcharts-background {
+    fill: rgba(0, 2, 7, 0.87);
+}
+
+.temp-chart-container {/*Här kan man ändra Storlek på grafen  */
+    width: 30vw;
+    height: 50vh;
+}
+
+
+
